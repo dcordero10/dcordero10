@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @dcordero10
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python projects
